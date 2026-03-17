@@ -48,4 +48,7 @@ Hata Ayıklama (Debug):
 Kodun kritik satırlarına Breakpoint eklenerek program dağılımı durdurulmuş, işlemci kayıtçıları ve pin durumu canlı olarak gözlemlenmiştir.
 
 🎥 Uygulama Videoları
-Projenin çalışma sistemleri ve hata ayıklama aşamalarını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz: [link]
+Projenin çalışma sistemleri ve hata ayıklama aşamalarını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz: 
+https://youtu.be/LU9oenlAQw4?si=6Jfc4QiJqI4EDfip
+https://github.com/Efebaykin1/Gomulu-Sistemleri-Odev1-
+
